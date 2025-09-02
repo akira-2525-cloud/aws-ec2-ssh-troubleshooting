@@ -111,17 +111,14 @@ AWS EC2 / VPC / Security Groups / Route Tables / CloudFormation / PowerShell / S
 
 ## 8. Repository Structure / リポジトリ構成
 
-``text
 aws-ec2-ssh-troubleshooting/
 ├── README.md
 └── images/
-├── connection-failed.png
-├── connection-success.png
-├── sg-wrong.png
-├── sg-fixed.png
-├── route-table-before.png
-├── route-table-fixed.png
-└── ssh-success.png
-```
-└── ssh-success.png
+    ├── connection-failed.png
+    ├── connection-success.png
+    ├── sg-wrong.png
+    ├── sg-fixed.png
+    ├── route-table-before.png
+    ├── route-table-fixed.png
+    └── ssh-success.png
 
