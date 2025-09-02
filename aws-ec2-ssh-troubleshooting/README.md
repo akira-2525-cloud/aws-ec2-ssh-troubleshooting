@@ -98,3 +98,12 @@ GitHub Repository: https://github.com/<username>/aws-ec2-ssh-troubleshooting
 
 ## 7. Repository Structure / リポジトリ構成
 
+aws-ec2-ssh-troubleshooting/
+├── README.md               
+└── images/                  
+    ├── connection-failed.png    ← 接続失敗（タイムアウト時）
+    ├── connection-success.png   ← 接続テスト成功
+    ├── sg-wrong.png             ← セキュリティグループ設定ミス
+    ├── sg-fixed.png             ← セキュリティグループ修正後
+    └── ssh-success.png          ← SSHログイン成功
+
