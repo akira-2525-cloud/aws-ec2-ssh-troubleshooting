@@ -101,9 +101,10 @@ GitHub Repository: https://github.com/<username>/aws-ec2-ssh-troubleshooting
 aws-ec2-ssh-troubleshooting/
 ├── README.md               
 └── images/                  
-    ├── connection-failed.png    ← 接続失敗（タイムアウト時）
-    ├── connection-success.png   ← 接続テスト成功
-    ├── sg-wrong.png             ← セキュリティグループ設定ミス
-    ├── sg-fixed.png             ← セキュリティグループ修正後
-    └── ssh-success.png          ← SSHログイン成功
+    ├── connection-failed.png   
+    ├── connection-success.png   
+    ├── sg-wrong.png            
+    ├── sg-fixed.png             
+    └── ssh-success.png         
+
 
