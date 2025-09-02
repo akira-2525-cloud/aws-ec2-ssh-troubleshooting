@@ -111,8 +111,6 @@ AWS EC2 / VPC / Security Groups / Route Tables / CloudFormation / PowerShell / S
 
 ## 8. Repository Structure / リポジトリ構成
 
-## 7. Repository Structure / リポジトリ構成
-
 ```text
 aws-ec2-ssh-troubleshooting/
 ├── README.md
@@ -126,6 +124,7 @@ aws-ec2-ssh-troubleshooting/
     └── ssh-success.png
 
 ---
+
 
 
 
