@@ -90,7 +90,6 @@ AWS EC2 / VPC / Security Groups / Route Tables / CloudFormation / PowerShell / S
   修正後、`Test-NetConnection` でポート22への疎通確認に成功。その後、正しい `.pem` ファイルを指定してSSH接続に成功しました。  
 
 📸 Screenshots:  
-![Connection success](images/connection-success.png)  
 ![SSH login success](images/ssh-success.png)  
 
 ---
@@ -116,7 +115,6 @@ aws-ec2-ssh-troubleshooting/
 ├── README.md
 └── images/
     ├── connection-failed.png
-    ├── connection-success.png
     ├── sg-wrong.png
     ├── sg-fixed.png
     ├── route-table-before.png
@@ -124,6 +122,7 @@ aws-ec2-ssh-troubleshooting/
     └── ssh-success.png
 
 ---
+
 
 
 
