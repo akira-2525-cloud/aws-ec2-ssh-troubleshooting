@@ -1,7 +1,7 @@
 # Troubleshooting SSH Connection to AWS EC2  
 _AWS実戦課題1: EC2に接続できない問題を解決_
 
-GitHub Repository: https://github.com/<username>/aws-ec2-ssh-troubleshooting  
+GitHub Repository:https://github.com/akira-2525-cloud/aws-ec2-ssh-troubleshooting
 
 ---
 
@@ -121,6 +121,7 @@ aws-ec2-ssh-troubleshooting/
     ├── route-table-fixed.png
     └── ssh-success.png
 ---
+
 
 
 
