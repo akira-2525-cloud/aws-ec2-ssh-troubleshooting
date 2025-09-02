@@ -64,7 +64,7 @@ GitHub Repository: https://github.com/<username>/aws-ec2-ssh-troubleshooting
 
 📸 Screenshots:  
 ![Security Group fixed](images/sg-fixed.png)  
-![Route Table fixed](images/route-table-fixed.png)  
+
 
 ---
 
@@ -105,6 +105,7 @@ aws-ec2-ssh-troubleshooting/
     ├── sg-wrong.png            
     ├── sg-fixed.png             
     └── ssh-success.png         
+
 
 
 
