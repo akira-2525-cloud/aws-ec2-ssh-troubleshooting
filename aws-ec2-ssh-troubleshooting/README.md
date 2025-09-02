@@ -120,9 +120,7 @@ aws-ec2-ssh-troubleshooting/
     ├── route-table-before.png
     ├── route-table-fixed.png
     └── ssh-success.png
-
 ---
-
 
 
 
