@@ -66,7 +66,7 @@ AWS EC2 / VPC / Security Groups / Route Tables / CloudFormation / PowerShell / S
 
 📸 Screenshots:  
 ![Security Group fixed](images/sg-fixed2.png)  
-![Route Table fixed](images/route-table-fixed2.png)  
+![Route Table fixed](images/route-table-fixed2.png?v=1)  
 
 ---
 
@@ -118,3 +118,4 @@ aws-ec2-ssh-troubleshooting/
     ├── sg-fixed2.png  
     ├── sg-wrong2.png  
     └── ssh-success2.png  
+
